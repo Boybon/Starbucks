@@ -1179,3 +1179,10 @@ margin-top: 5px;
     max-width: 350px;
 }
 }
+@media only screen and (max-width: 420px) and (min-width: 400px) {
+    .background-color3 {
+    height: 2100px;
+}
+.dropdown-mobile{
+    margin-top: 20px;
+}
